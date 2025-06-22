@@ -1,0 +1,57 @@
+2025-06-21 22:41:19,005 - ERROR - Graphics file not found: C:\Users\Vicky Singh\Documents\VARSI\Frontend\Graphics\icon.png
+2025-06-21 22:41:19,015 - DEBUG - Application icon set
+2025-06-21 22:41:19,031 - DEBUG - Jarvis.gif loaded successfully in InitialScreen
+2025-06-21 22:41:19,037 - DEBUG - Set microphone status to: False
+2025-06-21 22:41:19,037 - DEBUG - Toggled to Mic_on, glow set to red
+2025-06-21 22:41:19,069 - DEBUG - Jarvis.gif loaded successfully in ChatSection
+2025-06-21 22:41:19,374 - DEBUG - Navigation created
+2025-06-21 22:41:19,387 - DEBUG - Keyboard shortcuts set up
+2025-06-21 22:41:19,387 - DEBUG - MainWindow initialized
+2025-06-21 22:41:19,753 - DEBUG - Main window shown
+2025-06-21 22:41:19,791 - DEBUG - Updated status text in InitialScreen: Thinking...
+2025-06-21 22:41:19,793 - DEBUG - Got microphone status: False
+2025-06-21 22:41:19,796 - DEBUG - Loaded new message: vicky: Hello.
+2025-06-21 22:41:19,796 - DEBUG - Updated status text: Thinking...
+2025-06-21 22:41:19,911 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,020 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,143 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,257 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,358 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,453 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,574 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,671 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,782 - DEBUG - Got microphone status: False
+2025-06-21 22:41:20,860 - DEBUG - Set microphone status to: True
+2025-06-21 22:41:20,860 - DEBUG - Toggled to Mic_off, glow set to blue
+2025-06-21 22:41:20,905 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,000 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,124 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,216 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,335 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,435 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,543 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,655 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,763 - DEBUG - Got microphone status: True
+2025-06-21 22:41:21,763 - DEBUG - Set microphone status to: False
+2025-06-21 22:41:21,763 - DEBUG - Toggled to Mic_on, glow set to red
+2025-06-21 22:41:21,874 - DEBUG - Got microphone status: False
+2025-06-21 22:41:21,984 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,090 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,204 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,338 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,445 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,555 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,666 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,777 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,882 - DEBUG - Got microphone status: False
+2025-06-21 22:41:22,993 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,095 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,218 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,323 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,433 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,552 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,642 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,766 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,871 - DEBUG - Got microphone status: False
+2025-06-21 22:41:23,973 - DEBUG - Got microphone status: False
+2025-06-21 22:41:24,073 - DEBUG - Application exited

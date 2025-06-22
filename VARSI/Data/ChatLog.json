@@ -1,0 +1,362 @@
+[
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more."
+    },
+    {
+        "role": "user",
+        "content": "Pahle yah dekho."
+    },
+    {
+        "role": "assistant",
+        "content": "I see you're speaking in Hindi! No worries, I'll respond in English as per our agreement. You said \"Pahle yah dekho\" which roughly translates to \"See this first\". Are you asking me to look at something specific or would you like me to continue explaining about Python?"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Languages."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to programming languages! There are numerous programming languages, each with its own strengths and weaknesses. Some popular ones include Java, C++, JavaScript, Ruby, Swift, and of course, Python!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "What are you doing?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm chatting with you!"
+    },
+    {
+        "role": "user",
+        "content": "Mera code a gaya."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying \"Mera code a gaya\" which roughly translates to \"My code has gone\" or \"I've lost my code\". Have you misplaced your programming script or are you experiencing some issue with your code?"
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more."
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle sabse pahle."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're saying \"Sabse pahle sabse pahle sabse pahle\" which roughly translates to \"First, first, first\" or \"The most first\". Are you trying to emphasize the importance of something being first or priority?"
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "role": "user",
+        "content": "Aur ragnarok chala raha hai vahan ke."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're referencing Thor and the events of Ragnarok!"
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle output."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you want me to provide the output first\". In that case, I'll make sure to provide the output first in my responses moving forward!"
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle."
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle."
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle."
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "Yahan per."
+    },
+    {
+        "role": "assistant",
+        "content": "Here?"
+    },
+    {
+        "role": "user",
+        "content": "& D:/VARSI/.venv/Scripts/python.exe d:/VARSI/Backend/Chatbot.py"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're providing a file path to run a Python script!"
+    },
+    {
+        "role": "user",
+        "content": "& D:/VARSI/.venv/Scripts/python.exe d:/VARSI/Backend/Model.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Another file path to run a Python script, this time for a model!"
+    },
+    {
+        "role": "user",
+        "content": "& D:/VARSI/.venv/Scripts/python.exe d:/VARSI/Backend/RealtimeSearchEngine.py"
+    },
+    {
+        "role": "assistant",
+        "content": "Yet another file path to run a Python script, this time for a Realtime Search Engine!"
+    },
+    {
+        "role": "user",
+        "content": "& D:/VARSI/.venv/Scripts/python.exe d:/VARSI/Main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "A file path to run a Python script!"
+    },
+    {
+        "role": "user",
+        "content": "& D:/VARSI/.venv/Scripts/python.exe d:/VARSI/Main.py"
+    },
+    {
+        "role": "assistant",
+        "content": "A file path to run the Main.py script!"
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle sabse pahle sabse pahle sabse pahle sabse pahle sabse pahle iska output sabse pahle sabse pahle sabse pahle is output dekh lete hain kya yah kaisa kam karta hai."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you're saying \"First, first, first\" and wanting me to show the output of the script. You're asking if I can see how it works, right?"
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "Sabse pahle."
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a programming language."
+    },
+    {
+        "role": "user",
+        "content": "Papa."
+    },
+    {
+        "role": "assistant",
+        "content": "Papa!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you ?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Band karaan song and writer story."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to the song \"Band Karan\"! The song is from the Bollywood movie \"Jab We Met\" (2007) and was written by Irshad Kamil."
+    },
+    {
+        "role": "user",
+        "content": "Hello hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello hello!"
+    }
+]

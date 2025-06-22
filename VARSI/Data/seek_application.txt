@@ -1,0 +1,54 @@
+**Job Application Form**
+
+**Applicant Information:**
+
+1. **Full Name:** _____________________________________________________
+2. **Address:** ______________________________________________________
+3. **Phone Number:** _______________________________________________
+4. **Email ID:** ____________________________________________________
+5. **Date of Birth:** _______________________________________________
+
+**Educational Qualifications:**
+
+1. **Highest Qualification:** _____________________________________________
+2. **Relevant Course/Field of Study:** _______________________________
+3. **Institution Name:** _____________________________________________
+4. **Year of Passing:** ______________________________________________
+
+**Work Experience:**
+
+1. **Previous Employer:** ______________________________________________
+2. **Job Title:** __________________________________________________
+3. **Duration of Employment:** ______________________________________
+4. **Key Responsibilities:** _______________________________________
+
+**Skills:**
+
+1. **Technical Skills:** _______________________________________________
+2. **Language Proficiency:** _______________________________________
+3. **Soft Skills:** _______________________________________________
+
+**Why do you want to work with our organization?**
+
+____________________________________________________________________
+____________________________________________________________________
+
+**How did you come to know about this job opportunity?**
+
+____________________________________________________________________
+____________________________________________________________________
+
+**References:**
+
+1. **Name:** ______________________________________________________
+2. **Designation:** _______________________________________________
+3. **Contact Information:** _______________________________________
+
+**Declaration:**
+
+I declare that the information provided by me is true and accurate to the best of my knowledge. I understand that any false information may lead to the rejection of my application.
+
+**Signature:** ______________________________________________________
+**Date:** _______________________________________________________
+
+**Note:** Please attach your resume, certificates, and any other relevant documents with this application form.
